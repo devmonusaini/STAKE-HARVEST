@@ -29,7 +29,7 @@ const Community = () => {
                                 <td>500.00</td>
                                 <td>25-Aug-2023 12:15 AM</td>
                                 <td>30-Aug-2023 12:15 AM</td>
-                                <td><button type="button" className=" w-20  items-center justify-center whitespace-nowrap rounded-md px-1 py-1 sm:px-2 sm:py-2 3xl:py-2 4xl:py-3 text-xs sm:text-xs font-semibold text-neutral-900 hover:text-white leading-6 shadow-sm bg-gradient-to-r to-fuchsia-200 from-blue-100 hover:from-sky-600 hover:to-fuchsia-600 ">
+                                <td><button type="button" className=" w-20  items-center justify-center whitespace-nowrap rounded-md px-1 py-1 sm:px-2 sm:py-2 3xl:py-2 4xl:py-3 text-xs sm:text-xs font-semibold text-neutral-900 hover:text-white leading-6 shadow-sm bg-gradient-to-r to-fuchsia-200 from-blue-100 hover:from-sky-600 hover:to-fuchsia-600">
                                     Claim</button></td>
                             </tr>
                             <br />
